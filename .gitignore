@@ -1,3 +1,2 @@
-# files to ignore
-dist                // not interested in share
-node_modules        // file created from mac
+dist
+node_modules
